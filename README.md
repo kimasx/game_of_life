@@ -3,6 +3,12 @@ Game of Life in JS
 
 A cellular automaton visualization devised by the British mathematician John H. Conway.
 
+Technology Stack Used: 
+* Bootstrap 
+* jQuery
+* HTML/CSS
+
+
 #Game Rules:
 1. Any live cell with fewer than two live neighbours dies, as if caused by under-population.
 2. Any live cell with two or three live neighbours lives on to the next generation.
