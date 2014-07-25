@@ -2,6 +2,7 @@ Game of Life in JS
 ====================
 
 A cellular automaton visualization devised by the British mathematician John H. Conway.
+Check out the project here: http://kimasx.github.io/game_of_life/
 
 Technology Stack Used: 
 * Bootstrap 
